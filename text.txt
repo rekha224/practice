@@ -1,1 +1,13 @@
-hii new file
+git init 
+git add ""
+git commit -m ""
+git git remote add origin https://github.com/rekha224/practice.git
+git push -u branch name
+
+
+
+
+git branch 
+git checkout -b new branch
+git merge branch name
+git branch -d branch name
